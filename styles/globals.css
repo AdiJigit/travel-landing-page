@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero{
+  background: url('/assets/hero.png') no-repeat;
+  background-size: cover;
+}
+
+.heroAboutUs{
+  background: url('/assets/aboutUsHero.png') no-repeat;
+  background-size: cover;
+}
+
+.heroDestination{
+  background: url('/assets/destination1.jpg') no-repeat;
+  background-size: cover;
+}
+
+.heroTips{
+  background: url('/assets/tips1.jpg') no-repeat;
+  background-size: cover;
+}
+
+.heroContact{
+  background: url('/assets/contact1.jpg') no-repeat;
+  background-size: cover;
+}
